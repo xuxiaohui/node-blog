@@ -1,0 +1,30 @@
+.bg-theme {
+  background-color: #563d7c; }
+
+.border-bottom {
+  border-bottom: 1px solid #eaeaea; }
+
+.margin-top {
+  margin-top: 20px; }
+
+.blog-contaienr p {
+  margin-bottom: 0px;
+  font-family: "PingFangSC-Light", sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.7; }
+
+.blog-contaienr .card-section {
+  cursor: pointer; }
+  .blog-contaienr .card-section .blog-content {
+    color: #333333;
+    margin-top: 10px; }
+
+.blog-contaienr .desc {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-size-adjust: 100%;
+  color: #999999; }
+
+/*# sourceMappingURL=index.css.map */
